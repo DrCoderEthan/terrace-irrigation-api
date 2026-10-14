@@ -2,3 +2,4 @@ fastapi
 uvicorn[standard]
 numpy
 scikit-learn
+rasterio>=1.4.4,<2
